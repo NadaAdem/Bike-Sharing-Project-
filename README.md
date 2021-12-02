@@ -22,7 +22,6 @@ August Peak Hours
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
 
 
-
 ## Summary
 
 
