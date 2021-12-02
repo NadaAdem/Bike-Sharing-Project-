@@ -5,6 +5,13 @@ The purpose of this project is to create a visual business proposal using Tablea
 ## Results
 Pandas DataFrames and Tableau Calculated Fields are used to transform the datatypes and format of some columns.
 
+![image](https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/checkout%20times%20by%20Gender.png)
+
+![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
+
+![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
+
+
 ## Summary
 
 
