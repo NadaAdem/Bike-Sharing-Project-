@@ -16,7 +16,7 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 
 August Peak Hours
 
-![image](  )
+![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Trips%20By%20weekday%20per%20Hour.png )
 
 
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
