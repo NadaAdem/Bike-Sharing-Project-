@@ -1,7 +1,7 @@
 # Bike Sharing Project
 ## Overview of the analysis
 
-The purpose of this project is to create a visual business proposal using Tableau Public. Data on Citi bike ridership in New York City is analyzed to determine the business prospects of creating a similar business in Des Moines city .In addition,Pandas DataFrames and Tableau Calculated Fields are used to transform the datatypes and format of some columns.
+The purpose of this project is to create a visual business proposal using Tableau Public. Data on Citi bike ridership in New York City is analyzed to determine the business prospects of creating a similar business in Des Moines city. In addition,Pandas DataFrames and Tableau Calculated Fields are used to transform the datatypes and format of some columns.
 
 
 
