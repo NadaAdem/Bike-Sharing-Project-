@@ -16,14 +16,14 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 
 
 ### Checkout Time By Gender 
-As show below  that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
- 
+This line graph showcased the large disparity in Male and Female ridership.
 ![image](https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/checkout%20times%20by%20Gender.png)
 
 
 
 ### Trips By Weekday per Hour
 The chart majority of Monday-Friday trips are 7 AM - 9 AM and 5 PM - 7 PM.
+As show below  that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
  
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Trips%20By%20weekday%20per%20Hour.png )
 
