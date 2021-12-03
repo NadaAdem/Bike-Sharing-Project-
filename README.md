@@ -28,8 +28,14 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 
 
 ### Top Starting Locations
+
+Map of the top starting locations for rides in NYC
+
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Top%20Strating%20Location.png )
 
+###  pie chart showing the gender distribution of riders. 
+
+![image](https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/gender.png)
 
 
 ## Summary
