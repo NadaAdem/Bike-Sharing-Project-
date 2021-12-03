@@ -16,14 +16,21 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 
 
 ### Checkout Time By Gender 
+As show below  that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
+ 
 ![image](https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/checkout%20times%20by%20Gender.png)
 
 
 
-### Trips By Weekday per Hour 
+### Trips By Weekday per Hour
+The chart majority of Monday-Friday trips are 7 AM - 9 AM and 5 PM - 7 PM.
+ 
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Trips%20By%20weekday%20per%20Hour.png )
 
 ### User Trips By Gender By Weekday 
+
+The chart show that users are much more likely to be subscribers, rather than ordinary customers.
+
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
 
 
@@ -33,7 +40,9 @@ Map of the top starting locations for rides in NYC
 
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Top%20Strating%20Location.png )
 
-###  pie chart showing the gender distribution of riders. 
+###  Gender distribution of riders. 
+
+This pie chart showing the Gender distribution of rider.The graph show  male are  majority.
 
 ![image](https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/gender.png)
 
