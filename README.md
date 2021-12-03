@@ -37,6 +37,6 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 In this analysis, the business is not sure that Des Moines will develop the same success as NYC . In NYC, this business is popular in due to the heavy traffic. Further research must be done on Des Moines to determine whether car traffic and locational convenience would motivate potential customers to use this service. In fact, NYC has nearly 39 times the population of Des Moines.
 
 
-### Story 
-[Here view the story of visual  business proposal](https://public.tableau.com/app/profile/nada4204/viz/StoryNYCCitibike/NYCCitibikeStory?publish=yes)
+### Dashoard
+[link to dashboard](https://public.tableau.com/app/profile/nada4204/viz/StoryNYCCitibike/NYCCitibikeStory?publish=yes)
 
