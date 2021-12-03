@@ -23,7 +23,7 @@ Pandas DataFrames and Tableau Calculated Fields are used to transform the dataty
 ### Trips By Weekday per Hour 
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/Trips%20By%20weekday%20per%20Hour.png )
 
-### User Trips BY Gender By Weekday 
+### User Trips By Gender By Weekday 
 ![image]( https://github.com/NadaAdem/Bike-Sharing-Project-/blob/main/resources/User%20Trips%20By%20Gender%20bY%20weekeday.png )
 
 
